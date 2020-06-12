@@ -1,5 +1,6 @@
     .container-1,
-    .container-2 {
+    .container-2,
+    .container-3 {
         border: 1px solid black;
         width: 75%;
         margin: 0 auto;
@@ -7,7 +8,8 @@
     }
     
     .flex-box-container-1,
-    .flex-box-rps {
+    .flex-box-rps,
+    .flex-box-snake {
         display: flex;
         border: 1px solid black;
         padding: 10px;
